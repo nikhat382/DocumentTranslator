@@ -27,3 +27,7 @@ Thumbs.db
 uploads/
 temp/
 translated/
+.env
+node_modules/
+dist/
+build/
